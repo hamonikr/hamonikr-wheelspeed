@@ -1,0 +1,8 @@
+hamonikr-wheelspeed (1.0.0) jin; urgency=medium
+
+  * Initial release
+   - Add Korean translation
+   - Add desktop file and icon
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 02 Jul 2021 17:07:25 +0900
+
